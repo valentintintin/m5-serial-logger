@@ -1,5 +1,7 @@
 # m5-serial-logger
-M5Stack monitor Serial to screen and telnet
+M5Stack monitor Serial to screen and telnet (and SD Card one day)
+
+![Demo](demoGps.jpg)
 
 ## How to use   
 
